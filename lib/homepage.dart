@@ -18,7 +18,7 @@ class _HomeabcState extends State<Homeabc> {
             children: [
                 DrawerHeader(child: Text('Ridwan')),
                 ListTile(leading: Icon(Icons.home),title: Text('Home'),),
-                ListTile(leading: Icon(Icons.settings),title: Text('Settin'),),
+                ListTile(leading: Icon(Icons.settings),title: Text('Setting'),),
                 ListTile(leading: Icon(Icons.balance),title: Text('Balance cheque'),),
                 ListTile(leading: Icon(Icons.person),title: Text('Profile'),),
                 ListTile(leading: Icon(Icons.logout),title: Text('Sign Out'),),
